@@ -22,14 +22,14 @@ I excluded patients data with type1 diabetes, as the clinical question mentioned
 
 ## 1-2. index for glycaemic control (HbA1c vs 'glucose')
 
-### HbA1c was used as the primary marker of long-term glycaemic control in this analysis for the following reasons;
+HbA1c was used as the primary marker of long-term glycaemic control in this analysis for the following reasons;
 
 * In general, HbA1c reflects long-term blood glucose level, less affected by day-to-day variation, and therefore used clinically for long-term diabetes control. While it can be affected by other factors such as red blood cell lifespan or renal disease, it is still reliable on population-level.
 
 * In general, blood glucose is prone to high variability, strongly affected by fasting or non-fasting
 * In this database, the 'glucose' variable is the only marker of glycaemic status available; however, the timing and type of measurement (fasting, random, post-prandial, or even a simulated mixture of all) is not specified, while each of them could have a clinically different meaning for 'glycaemic control'.
 
-## 1-3 note: what each column refers to
+## 1-3. note: what each column refers to
 t2d_grs: a genetic risk score for type 2 diabetes. mi_date:myocardial infarction date. Tdi:Townsend deprivation inde packyears: the amount of cigarette per week, multiplied by years of smoking
 
 # 2. Statistical Method
