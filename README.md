@@ -3,7 +3,7 @@ To examine a hypothesis that waist circumference is associated more strongly tha
 
 # 0. Introduction
 ## Clinical question
-## Which is more strongly associated with poor glycaemic control of type 2 diabetes, BMI or waist circumfence?
+ Which is more strongly associated with poor glycaemic control of type 2 diabetes, BMI or waist circumfence?
 
 ## Background
 It is widely known that type2 diabetes is primarily caused by increased insulin resitance, which is mainly attributed to excess body fat, particularly when it is stored as visceral fat, while other factors such as genetics, ages, diets and muscle volume, may play roles.
